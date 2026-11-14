@@ -1,0 +1,10 @@
+name: CustomItemPlugin
+version: 1.0.0
+main: com.generatedplugin.Main
+api-version: '1.21'
+author: AI-Generated
+description: Custom Item Plugin
+commands:
+  givecustom:
+    description: Gibt dem Spieler ein Custom Schwert
+    usage: /givecustom
